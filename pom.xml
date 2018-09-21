@@ -45,7 +45,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>com.learning.SpringBootApplication</mainClass>
+							<mainClass>com.example.springbootopenshiftdemo</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
